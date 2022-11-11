@@ -149,8 +149,7 @@ A Non ohmic device is a device that does not obey Ohm's Law i.e. the resistance 
     - Diodes ( I flows in only 1 direction )
     - Thermistors ( Temperature dependent resistors )
 
-
-    ## Assignments
+## Assignments
 
 1. A 3 volt battery sends a current of 1 ampere through a light bulb. What is the resistance of the filament of the bulb?
     [Ans:3Ω]
