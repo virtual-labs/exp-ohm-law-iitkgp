@@ -1,7 +1,7 @@
-### Procedure
-## Experiment
+## Procedure
+### Experiment
 
-### Let us go through the experiment of confirming Ohms Law.
+#### Let us go through the experiment of confirming Ohms Law.
 1.  Set DC voltage(0-30 V).
 2.  Set the Resistance Value(1 Kohm - 100 Kohm) .
 3.  Voltmeter is placed parallel to resistor and ammeter series with resistor.
@@ -17,7 +17,7 @@
 <p>Figure:1</p>
 </div>
 
-### Let us go through the experiment of confirming Ohms Law with Resistance in series.
+#### Let us go through the experiment of confirming Ohms Law with Resistance in series.
 1. Set DC voltage(0-30 V).
 2. Here resistance are kept in series. Set the resistance R1(1 Kohm - 100 Kohm) value and set resistance R2(5 - 15 Kohm).
 3. Voltmeter is placed parallel with resistor and ammeter series with resistor.
@@ -31,7 +31,7 @@
 <p>Figure: 2</p>
 </div>
 
-### Let us go through the experiment of confirming Ohms Law with Resistance in parallel.
+#### Let us go through the experiment of confirming Ohms Law with Resistance in parallel.
 - Set DC voltage(0-30 V).
 - Here Resistances are kept parallelly. Set the resistance R1 (100 ohm- 2 kohm) value and set resistance R2(1 -30 kohm).
 - Voltmeter is placed parallel to resistor and ammeter series with resistor.
