@@ -10,7 +10,7 @@ Voltage(V) is directly proportional to current i.e V=I×R.
 Resistance(R) in inversely proportional to current(I) i.e $$I=\frac{V}{R}$$
 
 <div align="center">
-<img src="images/ohmtr.png" width="30%">
+<img src="images/ohmtr.png" style="max-width:100%; height:auto;">
 <p>Figure 1: Ohm's Law triangle  </p>
 </div>
 
@@ -28,7 +28,7 @@ $$R=\frac{V}{I}$$
 
 ### Explaination of Ohm's Law
 <div align="center">
-<img src="images/ohmt2.png" width="30%">
+<img src="images/ohmt2.png" style="max-width:100%; height:auto;">
 <p>Figure 2: Current through resistor  </p>
 </div>
 
@@ -59,7 +59,7 @@ Voltage:
 $$V_S=V_{R1}+V_{R2}+V_{R3}$$
 
 <div align="center">
-<img src="images/ohmt3.png" width="30%">
+<img src="images/ohmt3.png" style="max-width:100%; height:auto;">
 <p>Figure 3: Series resistor  </p>
 </div>
 
@@ -103,7 +103,7 @@ $$I_T=I_{R1}+I_{R2}+I_{R3}$$
 
 
 <div align="center">
-<img src="images/ohmt4.png" width="30%">
+<img src="images/ohmt4.png" style="max-width:100%; height:auto;">
 <p>Figure 4: Parallel resistor  </p>
 </div>
 
@@ -137,7 +137,7 @@ A Non ohmic device is a device that does not obey Ohm's Law i.e. the resistance 
 
 
 <div align="center">
-<img src="images/ohmtnhm.png" width="30%">
+<img src="images/ohmtnhm.png" style="max-width:100%; height:auto;">
 <p>Figure 5: Non Ohmic Device  </p>
 </div>
 
