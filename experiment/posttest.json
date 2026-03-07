@@ -9,12 +9,7 @@
         "c": "the resistor value increased",
         "d": "it is impossible to determine the change in the resistor"
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect",
-        "b": "You have choosen option (b). The answer is correct",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d": "You have choosen option (d). The answer is incorrect"
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "It stays the same",
         "d": "It increases by a factor of five"
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d": "You have choosen option (d). The answer is correct"
-      },
+     
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "175 W",
         "d": "35 W"
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d": "You have choosen option (d). The answer is correct"
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -60,12 +45,7 @@
         "c": "3.333 Ohm",
         "d": "3.333 mOhm"
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is correct",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d": "You have choosen option (d). The answer is incorrect"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     }

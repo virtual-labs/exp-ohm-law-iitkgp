@@ -9,12 +9,7 @@
           "c": "2.7 KOhm",
           "d": "2700 kOhm"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is incorrect",
-          "b": "You have choosen option (b). The answer is incorrect",
-          "c": "You have choosen option (c). The answer is correct",
-          "d": "You have choosen option (d). The answer is incorrect"
-        },
+      
         "correctAnswer": "c",
         "difficulty": "beginner"
       },
@@ -26,12 +21,7 @@
           "c": "directly proportional",
           "d": "inversely proportional"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is incorrect  ",
-          "b": "You have choosen option (b). The answer is incorrect",
-          "c": "You have choosen option (c). The answer is incorrect",
-          "d": "You have choosen option (d). The answer is correct"
-        },
+       
         "correctAnswer": "d",
         "difficulty": "beginner"
       },
@@ -43,13 +33,8 @@
           "c": "10 mA",
           "d": "90 mA"
         },
-        "explanations": {
-          "a": "You have choosen option (a). The answer is incorrect",
-          "b": "You have choosen option (b). The answer is correct",
-          "c": "You have choosen option (c). The answer is incorrect",
-          "d": "You have choosen option (d). The answer is incorrect"
-        },
-        "correctAnswer": "b",
+        
+        "correctAnswer": "a",
         "difficulty": "beginner"
       }
     ]
