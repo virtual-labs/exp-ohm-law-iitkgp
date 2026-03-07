@@ -52,7 +52,7 @@ $$I=I_1=I_2=I_3$$
 
 Resistance:
 
-$$R_{eq}=R-1+R_2+R_3$$
+$$R_{eq}=R_1+R_2+R_3$$
 
 Voltage:
 
